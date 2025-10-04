@@ -40,4 +40,4 @@ Supprimer un dossier: ```rm -r nom_du_dossier```
 
 ## Capture d'écran de l'exercice
 
-![la capture de l'esxercice](Capture_exercice5.png)
+![la capture de l'esxercice](capture_exercice5.png)
