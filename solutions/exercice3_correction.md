@@ -23,4 +23,4 @@ syntaxe:
 
 ## Capture d'écran de l'exercice
 
-![la capture de l'esxercice](Capture_exercice3.png)
+![la capture de l'esxercice](capture_exercice3.png)

@@ -40,4 +40,4 @@ Syntaxe:
 
 ## Capture d'écran de l'exercice
 
-![la capture de l'esxercice](Capture_exercice4.png)
+![la capture de l'esxercice](capture_exercice4.png)
